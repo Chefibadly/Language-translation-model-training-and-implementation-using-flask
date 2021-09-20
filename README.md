@@ -179,6 +179,6 @@ The model is therefore needed to be modified for making predictions so that it f
 * The encoder encodes input sentences while the decoder decodes the inputs and generate corresponding outputs.  
 
 # References
-* [Fundamentals of LSTM] (https://arxiv.org/pdf/1808.03314.pdf)
-* [Attention-based approach] (https://aclanthology.org/W16-2360.pdf)
-* [Keras LSTM documentation] (https://keras.io/api/layers/recurrent_layers/lstm/)
+* [ Fundamentals of LSTM ] (https://arxiv.org/pdf/1808.03314.pdf)
+* [ Attention-based approach ] (https://aclanthology.org/W16-2360.pdf)
+* [ Keras LSTM documentation ] (https://keras.io/api/layers/recurrent_layers/lstm/)
