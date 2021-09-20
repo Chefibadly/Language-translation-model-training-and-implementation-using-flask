@@ -73,8 +73,8 @@ def predict():
     #lang=request.form['languages']
     #lang=lang.lower()      
     text = decode_sequence(transform(message))
-    return jsonify({'prediction':text})
-#render_template('index.html', prediction=text)  
+    return render_template('index.html', prediction=text)
+# jsonify({'prediction':text})  
 
 
 def transform(input_text):
