@@ -57,7 +57,7 @@ Corpus Link: http://www.manythings.org/anki/ ->  fra-eng.zip .zip
 * Get the number of characters in the output
 * Get the length of the longest sentence in the output
 
-###vectorizing the data
+### vectorizing the data
 
 ```
 
